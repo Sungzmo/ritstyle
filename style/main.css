@@ -1,0 +1,25 @@
+body {
+    background-color: #162831;
+    width: 1280px;
+    margin: auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.add-seance {
+    background-image: ;
+}
